@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A03AE9981DC8BC0500C07588 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03AE9971DC8BC0500C07588 /* AppDelegate.swift */; };
-		A03AE99A1DC8BC0500C07588 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03AE9991DC8BC0500C07588 /* ViewController.swift */; };
-		A03AE99D1DC8BC0500C07588 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03AE99B1DC8BC0500C07588 /* Main.storyboard */; };
-		A03AE99F1DC8BC0500C07588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A03AE99E1DC8BC0500C07588 /* Assets.xcassets */; };
-		A03AE9A21DC8BC0500C07588 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03AE9A01DC8BC0500C07588 /* LaunchScreen.storyboard */; };
+		A05639BB1DC9FD9900430B27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A05639BA1DC9FD9900430B27 /* AppDelegate.swift */; };
+		A05639BD1DC9FD9900430B27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A05639BC1DC9FD9900430B27 /* ViewController.swift */; };
+		A05639C01DC9FD9900430B27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A05639BE1DC9FD9900430B27 /* Main.storyboard */; };
+		A05639C21DC9FD9900430B27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A05639C11DC9FD9900430B27 /* Assets.xcassets */; };
+		A05639C51DC9FD9900430B27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A05639C31DC9FD9900430B27 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A03AE9941DC8BC0500C07588 /* jillderon-pset1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "jillderon-pset1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A03AE9971DC8BC0500C07588 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A03AE9991DC8BC0500C07588 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A03AE99C1DC8BC0500C07588 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A03AE99E1DC8BC0500C07588 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A03AE9A11DC8BC0500C07588 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A03AE9A31DC8BC0500C07588 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A05639B71DC9FD9900430B27 /* Pset1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pset1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A05639BA1DC9FD9900430B27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A05639BC1DC9FD9900430B27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A05639BF1DC9FD9900430B27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A05639C11DC9FD9900430B27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A05639C41DC9FD9900430B27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A05639C61DC9FD9900430B27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A03AE9911DC8BC0500C07588 /* Frameworks */ = {
+		A05639B41DC9FD9900430B27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A03AE98B1DC8BC0500C07588 = {
+		A05639AE1DC9FD9900430B27 = {
 			isa = PBXGroup;
 			children = (
-				A03AE9961DC8BC0500C07588 /* jillderon-pset1 */,
-				A03AE9951DC8BC0500C07588 /* Products */,
+				A05639B91DC9FD9900430B27 /* Pset1 */,
+				A05639B81DC9FD9900430B27 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A03AE9951DC8BC0500C07588 /* Products */ = {
+		A05639B81DC9FD9900430B27 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A03AE9941DC8BC0500C07588 /* jillderon-pset1.app */,
+				A05639B71DC9FD9900430B27 /* Pset1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A03AE9961DC8BC0500C07588 /* jillderon-pset1 */ = {
+		A05639B91DC9FD9900430B27 /* Pset1 */ = {
 			isa = PBXGroup;
 			children = (
-				A03AE9971DC8BC0500C07588 /* AppDelegate.swift */,
-				A03AE9991DC8BC0500C07588 /* ViewController.swift */,
-				A03AE99B1DC8BC0500C07588 /* Main.storyboard */,
-				A03AE99E1DC8BC0500C07588 /* Assets.xcassets */,
-				A03AE9A01DC8BC0500C07588 /* LaunchScreen.storyboard */,
-				A03AE9A31DC8BC0500C07588 /* Info.plist */,
+				A05639BA1DC9FD9900430B27 /* AppDelegate.swift */,
+				A05639BC1DC9FD9900430B27 /* ViewController.swift */,
+				A05639BE1DC9FD9900430B27 /* Main.storyboard */,
+				A05639C11DC9FD9900430B27 /* Assets.xcassets */,
+				A05639C31DC9FD9900430B27 /* LaunchScreen.storyboard */,
+				A05639C61DC9FD9900430B27 /* Info.plist */,
 			);
-			path = "jillderon-pset1";
+			path = Pset1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A03AE9931DC8BC0500C07588 /* jillderon-pset1 */ = {
+		A05639B61DC9FD9900430B27 /* Pset1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A03AE9A61DC8BC0500C07588 /* Build configuration list for PBXNativeTarget "jillderon-pset1" */;
+			buildConfigurationList = A05639C91DC9FD9900430B27 /* Build configuration list for PBXNativeTarget "Pset1" */;
 			buildPhases = (
-				A03AE9901DC8BC0500C07588 /* Sources */,
-				A03AE9911DC8BC0500C07588 /* Frameworks */,
-				A03AE9921DC8BC0500C07588 /* Resources */,
+				A05639B31DC9FD9900430B27 /* Sources */,
+				A05639B41DC9FD9900430B27 /* Frameworks */,
+				A05639B51DC9FD9900430B27 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "jillderon-pset1";
-			productName = "jillderon-pset1";
-			productReference = A03AE9941DC8BC0500C07588 /* jillderon-pset1.app */;
+			name = Pset1;
+			productName = Pset1;
+			productReference = A05639B71DC9FD9900430B27 /* Pset1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A03AE98C1DC8BC0500C07588 /* Project object */ = {
+		A05639AF1DC9FD9900430B27 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
 				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = "Jill de Ron";
 				TargetAttributes = {
-					A03AE9931DC8BC0500C07588 = {
+					A05639B61DC9FD9900430B27 = {
 						CreatedOnToolsVersion = 8.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = A03AE98F1DC8BC0500C07588 /* Build configuration list for PBXProject "jillderon-pset1" */;
+			buildConfigurationList = A05639B21DC9FD9900430B27 /* Build configuration list for PBXProject "Pset1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = A03AE98B1DC8BC0500C07588;
-			productRefGroup = A03AE9951DC8BC0500C07588 /* Products */;
+			mainGroup = A05639AE1DC9FD9900430B27;
+			productRefGroup = A05639B81DC9FD9900430B27 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A03AE9931DC8BC0500C07588 /* jillderon-pset1 */,
+				A05639B61DC9FD9900430B27 /* Pset1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A03AE9921DC8BC0500C07588 /* Resources */ = {
+		A05639B51DC9FD9900430B27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A03AE9A21DC8BC0500C07588 /* LaunchScreen.storyboard in Resources */,
-				A03AE99F1DC8BC0500C07588 /* Assets.xcassets in Resources */,
-				A03AE99D1DC8BC0500C07588 /* Main.storyboard in Resources */,
+				A05639C51DC9FD9900430B27 /* LaunchScreen.storyboard in Resources */,
+				A05639C21DC9FD9900430B27 /* Assets.xcassets in Resources */,
+				A05639C01DC9FD9900430B27 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A03AE9901DC8BC0500C07588 /* Sources */ = {
+		A05639B31DC9FD9900430B27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A03AE99A1DC8BC0500C07588 /* ViewController.swift in Sources */,
-				A03AE9981DC8BC0500C07588 /* AppDelegate.swift in Sources */,
+				A05639BD1DC9FD9900430B27 /* ViewController.swift in Sources */,
+				A05639BB1DC9FD9900430B27 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A03AE99B1DC8BC0500C07588 /* Main.storyboard */ = {
+		A05639BE1DC9FD9900430B27 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A03AE99C1DC8BC0500C07588 /* Base */,
+				A05639BF1DC9FD9900430B27 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A03AE9A01DC8BC0500C07588 /* LaunchScreen.storyboard */ = {
+		A05639C31DC9FD9900430B27 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A03AE9A11DC8BC0500C07588 /* Base */,
+				A05639C41DC9FD9900430B27 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A03AE9A41DC8BC0500C07588 /* Debug */ = {
+		A05639C71DC9FD9900430B27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -213,7 +213,7 @@
 			};
 			name = Debug;
 		};
-		A03AE9A51DC8BC0500C07588 /* Release */ = {
+		A05639C81DC9FD9900430B27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -256,53 +256,51 @@
 			};
 			name = Release;
 		};
-		A03AE9A71DC8BC0500C07588 /* Debug */ = {
+		A05639CA1DC9FD9900430B27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "jillderon-pset1/Info.plist";
+				INFOPLIST_FILE = Pset1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.jillderon-pset1";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mprog.Pset1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		A03AE9A81DC8BC0500C07588 /* Release */ = {
+		A05639CB1DC9FD9900430B27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "jillderon-pset1/Info.plist";
+				INFOPLIST_FILE = Pset1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "nl.mprog.jillderon-pset1";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mprog.Pset1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A03AE98F1DC8BC0500C07588 /* Build configuration list for PBXProject "jillderon-pset1" */ = {
+		A05639B21DC9FD9900430B27 /* Build configuration list for PBXProject "Pset1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A03AE9A41DC8BC0500C07588 /* Debug */,
-				A03AE9A51DC8BC0500C07588 /* Release */,
+				A05639C71DC9FD9900430B27 /* Debug */,
+				A05639C81DC9FD9900430B27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A03AE9A61DC8BC0500C07588 /* Build configuration list for PBXNativeTarget "jillderon-pset1" */ = {
+		A05639C91DC9FD9900430B27 /* Build configuration list for PBXNativeTarget "Pset1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A03AE9A71DC8BC0500C07588 /* Debug */,
-				A03AE9A81DC8BC0500C07588 /* Release */,
+				A05639CA1DC9FD9900430B27 /* Debug */,
+				A05639CB1DC9FD9900430B27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A03AE98C1DC8BC0500C07588 /* Project object */;
+	rootObject = A05639AF1DC9FD9900430B27 /* Project object */;
 }
