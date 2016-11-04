@@ -12,6 +12,7 @@
 		A03AE99D1DC8BC0500C07588 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03AE99B1DC8BC0500C07588 /* Main.storyboard */; };
 		A03AE99F1DC8BC0500C07588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A03AE99E1DC8BC0500C07588 /* Assets.xcassets */; };
 		A03AE9A21DC8BC0500C07588 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03AE9A01DC8BC0500C07588 /* LaunchScreen.storyboard */; };
+		A093B7A41DCCBF2D00E310E9 /* README.mb in Resources */ = {isa = PBXBuildFile; fileRef = A093B7A31DCCBF2D00E310E9 /* README.mb */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A03AE99E1DC8BC0500C07588 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A03AE9A11DC8BC0500C07588 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A03AE9A31DC8BC0500C07588 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A093B7A31DCCBF2D00E310E9 /* README.mb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.mb; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A03AE99E1DC8BC0500C07588 /* Assets.xcassets */,
 				A03AE9A01DC8BC0500C07588 /* LaunchScreen.storyboard */,
 				A03AE9A31DC8BC0500C07588 /* Info.plist */,
+				A093B7A31DCCBF2D00E310E9 /* README.mb */,
 			);
 			path = "jillderon-pset1";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A093B7A41DCCBF2D00E310E9 /* README.mb in Resources */,
 				A03AE9A21DC8BC0500C07588 /* LaunchScreen.storyboard in Resources */,
 				A03AE99F1DC8BC0500C07588 /* Assets.xcassets in Resources */,
 				A03AE99D1DC8BC0500C07588 /* Main.storyboard in Resources */,
@@ -301,6 +305,7 @@
 				A03AE9A81DC8BC0500C07588 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
